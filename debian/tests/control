@@ -1,0 +1,2 @@
+Test-Command: fonts-myanmar-smoke --autopkgtest 2>&1
+Depends: fontconfig, fonts-myanmar-smoke

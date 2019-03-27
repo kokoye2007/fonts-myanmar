@@ -1,0 +1,295 @@
+Source: fonts-myanmar
+Section: fonts
+Priority: optional
+Maintainer: kokoye2007 <kokoye2007@gmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.3.0
+Homepage: https://github.com/kokoye2007/fonts-myanmar
+Vcs-Git: https://github.com/kokoye2007/fonts-myanmar.git
+Vcs-Browser: https://github.com/kokoye2007/fonts-myanmar
+
+Package: fonts-myanmar
+Architecture: all
+Multi-Arch: foreign
+Recommends: fonts-myanmar-pyidaungsu, fonts-myanmar-zawgyi, fonts-myanmar-myanmar3
+Depends: ${misc:Depends}
+Description: Myanmar fonts collection
+ Pyidaungsu-2.3 Myanmar3 Myanmar-Census
+ support by Myanmar NLP.
+ Zawgyi from Alpha.
+ support script Myanmar, Burmese, Shan, Mon, Karen.
+
+Package: fonts-myanmar-zawgyi
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar font Zawgyi One v2008;
+ Zawgyi Font From Alpha Zawgyi.
+ Free Font and most popular in Burmese.
+ Burmese Script only.
+
+Package: fonts-myanmar-myanmar3
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts Myanmar3
+ Myanmar3 is official use for Government site.
+ Its support from Myanmar NLP.
+ Burmese script only.
+
+Package: fonts-myanmar-myanmarcensus
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts Myanmar Census
+ Myanmar (Burmese, Shan, Mon, Karen, etc) Font.
+ Support by Myanmar NLP.
+ released after the Myanmar 3 and
+ before Pyidaungsu.
+
+Package: fonts-myanmar-pyidaungsu
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: fonts Pyidaungsu
+ Myanmar (Burmese, Shan, Mon, Karen, etc) Font
+ Support by Myanmar NLP.
+ Its Official latest from Myanmar NLP.
+
+Package: fonts-myanmar-unicode
+Architecture: all
+Multi-Arch: foreign
+Recommends: fonts-myanmar-pyidaungsu, fonts-myanmar-myanmar3, fonts-myanmar-myanmarcensus
+Depends: ${misc:Depends}
+Description: Myanmar Unicode fonts
+ Myanmar3 Myanmar Census Pyidaungsu
+ Unicode font suite for Myanmar.
+ develop and support by Myanmar NLP.
+ Support Burmese, Shan, Karen, Mon script.
+
+Package: fonts-myanmar-ayar
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts ayar
+ Ayar Unicode From Ayar Group
+ Ayar is not follow unicode point rules.
+ but not follow rendering for ICU rules.
+
+Package: fonts-myanmar-angoun
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts angoun
+ angoun is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-chatulight
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts chatulight
+ chatulight is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-chatu
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts chatu
+ chatu is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-gantgaw
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts gantgaw
+ gantgaw is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-khyay
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts khyay
+ khyay is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-kuttar
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts kuttar
+ kuttar is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-nayone
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts nayone
+ nayone is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-njaun
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts njaun
+ njaun is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-pauklay
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts pauklay
+ pauklay is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-phetsot
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts phetsot
+ phetsot is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-phikselsmooth
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts phikselsmooth
+ phikselsmooth is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-phiksel
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts phiksel
+ phiksel is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-ponenyet
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts ponenyet
+ ponenyet is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-sabae
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts sabae
+ sabae is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-sagar
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts sagar
+ sagar is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-sanpya
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts sanpya
+ sanpya is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-squarelight
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts squarelight
+ squarelight is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-tagu
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts tagu
+ tagu is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-thuriya
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts thuriya
+ thuriya is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-waso
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts waso
+ waso is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-yinmar
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts yinmar
+ yinmar is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ https://github.com/khmertype
+
+Package: fonts-myanmar-myanmarsanspro
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar fonts Myanmar Sans Pro
+ Myanmar Sans Pro is a display Myanmar Unicode font.
+ Authors by Danh Hong
+ Manufacture by Google
+
+Package: fonts-myanmar-namkhone
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar shan fonts Namkhone
+ Namkhone is a Shan Script Font.
+ display Myanmar Unicode font.
+ Authors by PJailon
+ Manufacture by NamKhone
+
+Package: fonts-myanmar-mon
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Myanmar mon fonts MON3 Anonta 1
+ MON3 Anonta 1 display Myanmar Unicode font.
+ follow unicode 5.1 and follow ICU standard.
+ include Burmese, Karen, Mon and other script.
+ Authors by Mon2Uni
