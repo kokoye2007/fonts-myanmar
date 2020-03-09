@@ -1,0 +1,3 @@
+*.ttf /usr/share/fonts/truetype/mm
+Noto/NotoSansMyanmar/*.ttf /usr/share/fonts/truetype/mm/noto/sans/
+Noto/NotoSerifMyanmar/*.ttf /usr/share/fonts/truetype/mm/noto/serif/
