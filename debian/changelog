@@ -1,5 +1,6 @@
 fonts-myanmar (0.0-1~exp1) unstable; urgency=medium
 
   * Initial release (Closes: #899260)
+  * single binary, recommend by Sean Whittonu.
 
- -- kokoye2007 <kokoye2007@gmail.com>  Mon, 13 Jan 2020 21:00:22 +0630
+ -- kokoye2007 <kokoye2007@gmail.com>  Mon, 20 Jan 2020 21:00:22 +0630

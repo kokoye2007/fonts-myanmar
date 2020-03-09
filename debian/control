@@ -2,11 +2,12 @@ Source: fonts-myanmar
 Section: fonts
 Priority: optional
 Maintainer: kokoye2007 <kokoye2007@gmail.com>
-Standards-Version: 4.4.1
+Standards-Version: 4.5.0
+Build-Depends: debhelper, debhelper-compat (= 12)
 Homepage: https://github.com/kokoye2007/fonts-myanmar
 Vcs-Git: https://github.com/kokoye2007/fonts-myanmar.git
 Vcs-Browser: https://github.com/kokoye2007/fonts-myanmar
- 
+
 Package: fonts-myanmar
 Architecture: all
 Multi-Arch: foreign
