@@ -171,3 +171,7 @@ License: OFL-1.1
 Files: MyanmarSansPro.ttf
 Copyright: Copyright (c) 2016 by Khamertype, Manufacture by Google All rights reserved.
 License: Apache-2.0
+
+Files: Noto/*
+Copyright: Copyright 2016 Google Inc. All Rights Reserved.
+License: OFL-1.1
