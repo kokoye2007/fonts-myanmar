@@ -8,13 +8,12 @@ to install myanmar fonts
 
 sudo apt-get install fonts-myanmar
 
-also avilable  single fonts installation
-
-```
-sudo apt-get install fonts-myanmar
-```
 
 if you want to add some fonts ?
 feel freely contact 
 
 kokoye2007 <kokoye200@gmail.com>
+
+relative 
+1) fonts-sil-padauk
+2) fonts-noto-nohint
