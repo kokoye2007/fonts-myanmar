@@ -152,10 +152,6 @@ Files: Pyidaungsu*.ttf
 Copyright: Copyright (c) 2013 by MCF. All rights reserved.
 License: OFL-1.1
 
-Files: Myanmar*.ttf
-Copyright: Copyright (c) 2016 by Khamertype. All rights reserved.
-License: OFL-1.1
-
 Files: mm3anonta*.ttf
 Copyright: Copyright (c) 2013 by Mon2Uni. All rights reserved.
 License: OFL-1.1
@@ -168,6 +164,10 @@ Files: ZawgyiOne2008.ttf
 Copyright: © 2005 Zawgyi.net & Alpha Mandalay. All rights reserved.
 License: OFL-1.1
 
+Files: Myanmar*.ttf
+Copyright: Danh Hong <http://www.khmertype.org>. All rights reserved.
+License: OFL-1.1
+
 Files: MyanmarSansPro-Regular.ttf
-Copyright: Copyright (c) 2016 by Khamertype, Manufacture by Google All rights reserved.
+Copyright: Copyright (c) 2016 by Khamertype, Copyright 2014 Google Inc. All Rights Reserved.
 License: Apache-2.0

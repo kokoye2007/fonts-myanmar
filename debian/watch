@@ -1,4 +1,5 @@
 version=4
-pgpsigurlmangle=s/archive\/(\d\S+)\.tar\.gz/releases\/download\/$1\/$1\.tar\.gz\.asc/ \
-opts=filenamemangle=s/.+\/v?(\d\S+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))/fonts-myanmar-$1\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz))) 
-  https://github.com/kokoye2007/fonts-myanmar/tags .*/v?(\d\S+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
+opts=pgpsigurlmangle=s/archive\/(\d\S+)\.tar\.gz/releases\/download\/$1\/$1\.tar\.gz\.asc/ \
+  https://github.com/kokoye2007/fonts-myanmar/releases/latest .*/(\d\S+)\.tar\.gz
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/fonts-myanmar-$1\.tar\.gz/ \
+  https://github.com/kokoye2007/fonts-myanmar/tags .*/v?(\d\S+)\.tar\.gz
